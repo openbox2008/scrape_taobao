@@ -137,7 +137,7 @@ def download_image(image_url):
         return None
 ```
 
-### 2. 数据展示模块 (seaborn_dashboard.py)
+### 2. 数据展示模块 (dashboard.py)
 
 该模块主要完成以下任务：
 
